@@ -563,11 +563,11 @@
       <p>Whether you're hiring, collaborating, or just want to swap notes on CS strategy — I'd love to hear from you.</p>
     </div>
     <div class="contact-links">
-      <a class="contact-link" href="mailto:you@email.com">
+      <a class="contact-link" href="mailto:nayana.106hari@gmail.com">
         <div class="contact-icon">✉</div>
         <div>
           <div style="font-weight:500; font-size:0.875rem;">Email</div>
-          <div style="font-size:0.8rem; color:rgba(255,255,255,0.55);">you@email.com</div>
+          <div style="font-size:0.8rem; color:rgba(255,255,255,0.55);">nayana.106hari@gmail.com</div>
         </div>
       </a>
       <a class="contact-link" href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener">
